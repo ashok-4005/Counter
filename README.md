@@ -4,4 +4,7 @@ This is a simple React-based counter application that demonstrates the use of th
 
 # #React State #React Hooks
 
-![]()
+
+Output Screen Shot
+
+![](output.png)
